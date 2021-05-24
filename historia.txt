@@ -6,4 +6,6 @@ Dylan esteban tiene 15 años y nació en bogotá
 
 Master1
 
+Master2
+
 Nos estamos enfocando en su vida laboral;estamos aprendiendo GIT y GITHUB.
