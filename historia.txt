@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Esta es las historia de Harold Perez y Dylan Perez. 😎😁
+=======
+Esta es las hisoria de David y Dylan 😎😁
+>>>>>>> footer
 
 Harold Perez tiene 20 años y nació en Colombia, 
 
