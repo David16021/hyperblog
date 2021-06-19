@@ -6,3 +6,6 @@ Un blog increíble realizado en el curso de Git y Github de Platzi
 * Creado por Harold Perez Martinez
 
 * Proximamente diseñar más proyectos personales.
+
+
+https://david16021.github.io/hyperblog/blogpost.html
